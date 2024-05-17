@@ -1,0 +1,2 @@
+Para que el servidor no retorne un error 504, hay que configurar la variable "Timeout" en "httpd.conf". El siguiente es el enlace de ayuda:
+https://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-rg-es-4/s1-apache-config.html
